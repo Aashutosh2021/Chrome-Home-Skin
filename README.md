@@ -8,6 +8,8 @@ A feature-rich Chrome extension that transforms your new tab into a beautiful, i
 - **Twinkling Stars**: Animated starfield that appears during nighttime
 - **Moving Sun & Moon**: Celestial bodies follow realistic arc paths across the sky
 - **Mountain Landscape**: Beautiful layered mountain scenery
+- <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/5bb7d0b8-9b64-4ba3-bd8e-ed3a0ca85ee2" />
+
 
 ### 🕐 Time & Date Display
 - **Analog Clock**: Beautiful gradient-styled clock with hour, minute, and second hands

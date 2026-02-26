@@ -9,6 +9,8 @@ A feature-rich Chrome extension that transforms your new tab into a beautiful, i
 - **Moving Sun & Moon**: Celestial bodies follow realistic arc paths across the sky
 - **Mountain Landscape**: Beautiful layered mountain scenery
 - <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/5bb7d0b8-9b64-4ba3-bd8e-ed3a0ca85ee2" />
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/39576c8d-1d10-41c8-ace8-d3609f5b714c" />
+
 
 
 ### 🕐 Time & Date Display

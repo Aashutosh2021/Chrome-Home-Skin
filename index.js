@@ -55,7 +55,7 @@ function update3DScene() {
         
         // Moon travels from left (10%) to right (90%) in a parabolic arc
         const moonX = 10 + (moonProgress * 80); // 10% to 90%
-        const moonY = 60 - Math.sin(moonProgress * Math.PI) * 45; // Arc path (higher arc)
+        const moonY = 48 - Math.sin(moonProgress * Math.PI) * 45; // Arc path (moved 40px higher)
         moon.style.left = `${moonX}%`;
         moon.style.top = `${moonY}%`;
         
